@@ -8,7 +8,7 @@ ___
 
 ### 👨‍💻 What I Do
 
-- 🎓 Studying Applied Computer Science (Bachelor), with a Mobile & Enterprise Dev specialization
+- 🎓 Graduated Applied Computer Science (Bachelor), with a Mobile & Enterprise Dev specialization
 - 💻 Passionate about full stack web development
 - 🚀 Always curious to explore new technologies and frameworks
   
