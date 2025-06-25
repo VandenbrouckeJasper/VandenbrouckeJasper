@@ -2,7 +2,7 @@
 
 ### 👋 Hello you!
 
-I'm a **Bachelor's student in Applied Computer Science**, specializing in **Mobile and Enterprise Development**. I'm passionate about building software that truly serves user needs, and there's nothing quite like the satisfaction of delivering something that's genuinely appreciated. My main focus is on **web application development**, where I enjoy working **full stack** — from frontend design to backend architecture.
+I'm a Software Developer, specialized in **Mobile and Enterprise Development**. I'm passionate about building software that truly serves user needs, and there's nothing quite like the satisfaction of delivering something that's genuinely appreciated. My main focus is on **web application development**, where I enjoy working **full stack** — from frontend design to backend architecture.
 
 ___
 
