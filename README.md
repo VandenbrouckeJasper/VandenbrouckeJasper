@@ -9,7 +9,7 @@ ___
 ### 👨‍💻 What I Do
 
 - 🎓 Graduated Applied Computer Science (Bachelor), with a Mobile & Enterprise Dev specialization
-- 💻 Passionate about full stack web development
+- 💻 Passionate about full stack web development with .NET and Angular
 - 🚀 Always curious to explore new technologies and frameworks
   
 ___
